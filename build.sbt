@@ -1,4 +1,4 @@
-name := "scala-lv2"
+name := "scalv2"
 
 organization := "it.lolgab"
 

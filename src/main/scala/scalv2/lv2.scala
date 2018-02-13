@@ -1,3 +1,5 @@
+package scalv2
+
 import scala.scalanative.native._
 
 @extern
